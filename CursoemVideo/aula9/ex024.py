@@ -2,5 +2,4 @@
 city = (str(input('Digite o nome de uma cidade: '))).upper() 
 print("Verificando se começa com 'SANTO'...'")
 verifica = city.find('SANTO')
-print(verifica)
-
+print(verifica == 0)
