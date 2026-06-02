@@ -14,6 +14,7 @@
 #frase.count('o',0,13) - conta os 'o' do indice 0 ao 12
 #frase.find('deo') - diz quantas vezes ele encontra deo e diz onde ele encontra o inicio desse trecho (o indice)
 #frase.find('Android') - uma strg que nao existe na frase, ele retorna -1
+#frase.rfind('palavra') - procura a partir do lado direito
 #'Curso' in frase - operador in diz se existe ou nao essa str retornando True ou False
 
 #Transformacao
