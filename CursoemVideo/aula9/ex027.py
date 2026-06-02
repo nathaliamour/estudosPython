@@ -6,4 +6,3 @@ FirstName = nome[0]
 nome = nome[::-1]
 LastName = nome[0]
 print("O seu primeiro nome é {}, e o seu último sobrenome é {}.".format(FirstName,LastName))
-
