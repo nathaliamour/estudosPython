@@ -1,0 +1,11 @@
+'''
+a confederaçao nacional de nataçao precisa de um programa que leia o
+#ano de nascimento de um atleta e mostre sua categoria, de acordo com a 
+#idade. 
+#Ate 9 anos - mirim
+Até 14 anos - infantil 
+Até 19 anos - Junior 
+Até 20 anos - Senior 
+Acima - Master
+'''
+
