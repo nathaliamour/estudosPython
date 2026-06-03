@@ -10,4 +10,5 @@ palpite = int(input("Vou escolher um número entre 1 e 5...\nConsegue adivinhar 
 if num == palpite:
     print("Uau! Você venceu!")
 else: 
-    print("Não foi dessa vez!\nrs\nrs\nrs")
+    print("Não foi dessa vez!\nrs\nrs\nrs\nO número escolhido foi {}".format(num))
+    
