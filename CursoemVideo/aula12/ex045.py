@@ -1,7 +1,6 @@
 """
 Crie um programa que faça o computador jogar jokenpô com vc
 """
-import time
 import random
 player = int(input("\nVamos jogar jokenpo!!!\n\nVocê precisa escolher um número, dentre as opções abaixo:\n" \
 "[1] Pedra\n[2] Papel\n[3] Tesoura\n\nQual a sua escolha? "))
@@ -12,11 +11,8 @@ jogadas = {
     3: "Tesoura"
 }
 print("\nJO")
-time.sleep(1)
 print("KEN")
-time.sleep(1)
 print("PO!!!\n")
-time.sleep(1)
 
 pc = random.randint(1, 3)
 
