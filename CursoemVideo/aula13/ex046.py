@@ -8,5 +8,7 @@ for i in range(10, 0, -1):
     print(i)
     time.sleep(1)
 print("  \  |  /\n --  *  --\n  /  |  \ ")
-print("  * . *\n*  X  *\n  * . *")
+time.sleep(1)
+print("  * . *\n  *  X  *\n  * . *")
+time.sleep(1)
 print("     .  :  .\n   :  ' : '  :\n  .  *  X  *  .\n   :  . : .  :\n     '  :  '")
