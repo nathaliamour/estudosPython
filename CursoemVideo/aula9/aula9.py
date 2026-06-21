@@ -26,7 +26,9 @@
 #frase.strip() - remove todos os espacos do final e do inicio de uma strg
 #frase.rstrip() - remove somente o ultimo espaco
 #frase.lstrip() - remove somente o inicio (esquerda)
-#lista.sort()
+#lista.sort() - organiza os elementos da lista em ordem crescente
+#lista.append() - adiciona um elemento 
+#lista.extend() - adiciona varios elementos 
 
 #divisao
 #frase.split() - divide cada palavra em outras listas
